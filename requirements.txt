@@ -1,0 +1,8 @@
+crawl4ai
+llama-index
+llama-index-llms-openrouter
+llama-index-embeddings-openai
+chromadb
+playwright
+python-dotenv
+streamlit
