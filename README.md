@@ -22,7 +22,7 @@ U of T's current chatbot (Navi) relies on legacy rule-based logic. The **U of T 
 
 ## 🏃 Getting Started (Ubuntu)
 ```bash
-git clone git@github.com:yourusername/uoft-navigator.git
+git clone git@github.com:HasnainMSyed/uoft-navigator.git
 cd uoft-navigator
 python3 -m venv .venv
 source .venv/bin/activate
